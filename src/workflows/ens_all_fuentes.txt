@@ -1,0 +1,16 @@
+/home/juaniripoll27/buckets/b1/exp/WF9102/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9512/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9513/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9514/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9517/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9518/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9519/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9530/prediccion.txt
+/content/buckets/b1/exp/WF9102/prediccion.txt
+/content/buckets/b1/exp/WF9512/prediccion.txt
+/content/buckets/b1/exp/WF9513/prediccion.txt
+/content/buckets/b1/exp/WF9514/prediccion.txt
+/content/buckets/b1/exp/WF9517/prediccion.txt
+/content/buckets/b1/exp/WF9518/prediccion.txt
+/content/buckets/b1/exp/WF9519/prediccion.txt
+/content/buckets/b1/exp/WF9530/prediccion.txt

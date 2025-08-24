@@ -1,0 +1,5 @@
+/home/juaniripoll27/buckets/b1/exp/WF9530/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9519/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9518/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9517/prediccion.txt
+/home/juaniripoll27/buckets/b1/exp/WF9514/prediccion.txt
